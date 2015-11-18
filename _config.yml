@@ -1,0 +1,23 @@
+name: Dayboro Networkers
+favicon: null
+layout_spectrum: 0.7758788380306214
+typography_spectrum: 0.6713796851690859
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5717635960318148
+  lightness: 0.5895838653668761
+  saturation: 0.9251768495887518
+  rhythmicContrast: 0.15604133042506874
+purpose: []
